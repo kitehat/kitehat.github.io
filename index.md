@@ -1,5 +1,5 @@
-# kitehat.github.io
+# index.md
 
 ```javascript
-alert("I just came to say HELLO!");
+alert("HELLO DARKNESS MY OLD FRIEND");
 ```
